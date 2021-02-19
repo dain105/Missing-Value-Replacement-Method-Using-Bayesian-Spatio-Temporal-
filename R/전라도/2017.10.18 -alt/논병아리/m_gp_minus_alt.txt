@@ -1,0 +1,12 @@
+> m_gp_minus_alt
+-----------------------------------------------------
+Model: GP
+Call: temp ~ lon + lat
+Iterations: 13000
+nBurn: 3000
+Acceptance rate for phi (%): 0
+-----------------------------------------------------
+        Goodness.of.fit Penalty    PMCC
+values:        17612.58 6696854 6714467
+-----------------------------------------------------
+Computation time: 36  - Mins. 51.17  - Sec.

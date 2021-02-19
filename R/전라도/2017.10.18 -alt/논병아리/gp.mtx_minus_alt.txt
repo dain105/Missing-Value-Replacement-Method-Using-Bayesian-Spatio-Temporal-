@@ -1,0 +1,3 @@
+> gp.mtx_minus_alt
+    MSE    RMSE     MAE    MAPE    BIAS   rBIAS   rMSEP 
+82.6304  9.0901  7.9035 76.4105  0.1005  0.0074  0.9997 

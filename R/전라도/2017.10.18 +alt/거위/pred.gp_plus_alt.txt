@@ -1,0 +1,7 @@
+> pred.gp_plus_alt
+--------------------------------------
+Spatial prediction with Model: GP 
+Covariance function: exponential 
+Distance method: geodetic:km 
+Computation time:  1  - Hour/s. 26  - Mins. 35.09  - Sec. 
+--------------------------------------
